@@ -1,10 +1,12 @@
 # Minimalist Neovim Configuration
 
-A lightweight, fast, and uncluttered Neovim setup using **vim-plug** and a carefully curated set of essential plugins.  
-This configuration is designed for writing, research, note-taking, and general development, with a clean UI and sensible defaults.
+A lightweight, fast, and uncluttered Neovim setup using **vim-plug** and as few plugins as possible.
+
+This configuration is designed for Quarto writing, research, note-taking, and
+basic development.
 
 The instructions are mainly for Arch Linux (btw), but I'm pretty sure they will
-work on other distros (and Macs) with a few changed.
+work on other distros (and Macs) with a few changes.
 
 For Windows users there is one extra step - Delete Windows and install Linux.
 
@@ -154,4 +156,5 @@ This README describes the plugins and functionality included in the minimalist `
 ## 📜 License
 
 MIT License  
-Feel free to modify and share.
+
+Do what you want with it, IDC.

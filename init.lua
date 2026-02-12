@@ -4,7 +4,7 @@ end
 
 if is_vscode() then
     require('general')
-    require('vscode')
+    require('my_vscode')
 else
     require('general')
     require('terminal')
